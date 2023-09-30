@@ -1,0 +1,19 @@
+{
+  "name": "interest-calculator",
+  "version": "1.0.0",
+  "description": "Calculate interest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "interest"
+  ],
+  "author": "Amitava",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "loanjs": "^1.1.2"
+  }
+}
